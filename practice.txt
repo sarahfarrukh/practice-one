@@ -4,6 +4,10 @@ red
 yellow 
 green 
 pink 
+blue
+golden
+white
+orange
 unicorn
 purple
 black
